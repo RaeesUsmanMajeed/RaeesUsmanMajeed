@@ -1,9 +1,9 @@
 ## Hey 👋, I'm Mohammad Usman Majeed!  
 
-<div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mateendev3&label=Views&color=blue&style=plastic&style=for-the-badge" alt="offical-waqas-khurshid" /> </p></div>
+<div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mateendev3&label=Views&color=blue&style=plastic&style=for-the-badge" alt="Raees Usman" /> </p></div>
 
 <div align="center">
-<a href="https://github.com/offical-waqas-khurshid" target="_blank">
+<a href="https://github.com/RaeesUsmanMajeed" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/WAQASKH77939058" target="_blank">
@@ -33,7 +33,7 @@
 ## Profile Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=offical-waqas-khurshid&theme=gruvbox"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaeesUsmanMajeed&theme=gruvbox"/>
 </p>
 
 <p align="center">
