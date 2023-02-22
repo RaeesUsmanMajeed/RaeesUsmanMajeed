@@ -66,7 +66,7 @@
 ## Github Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/d…o/preview.php?user=RaeesUsmanMajeed&theme=gruvbox" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=RaeesUsmanMajeed" />
 </p>
 
 <br/>  
