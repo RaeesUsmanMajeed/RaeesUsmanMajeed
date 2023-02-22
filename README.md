@@ -1,4 +1,4 @@
-## Hey 👋, I'm Waqas Khurshid!  
+## Hey 👋, I'm Mohammad Usman Majeed!  
 
 <div align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=mateendev3&label=Views&color=blue&style=plastic&style=for-the-badge" alt="offical-waqas-khurshid" /> </p></div>
 
